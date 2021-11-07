@@ -68,4 +68,5 @@ http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f121262a189a800
 #EXTINF:-1 tvg-id=""tvg-logo="" group-title="",PLUTO TV PORTA DOS FUNDOS
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f36f2346ede750007332d11/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=a4be72ee-4337-4176-a253-be6d837c977f&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-id=""tvg-logo="" group-title="",FITDENCE
-http://main.cteam.me:80/pablo1/pablo123/880836
+http://main.cteam.me:80/pablo1/pablo123/880836#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",PLUTO TV NATUREZA
+https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/5f1213ba0ecebc00070e170f/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=5f1213ba0ecebc00070e170f&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=271&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&deviceDNT=0&deviceModel=web&userId=&appName=web
