@@ -67,3 +67,5 @@ http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1212ad17280500
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f121262a189a800076b9386/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977ee1e1-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=d54d8e7b-d3f3-44cd-ac61-95ff7aa498d3&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-id=""tvg-logo="" group-title="",PLUTO TV PORTA DOS FUNDOS
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f36f2346ede750007332d11/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=a4be72ee-4337-4176-a253-be6d837c977f&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",FITDENCE
+http://main.cteam.me:80/pablo1/pablo123/880836
